@@ -15,7 +15,8 @@ node_modules/
 
 # v6 build files
 /build/
-/packages/*/dist/
+/packages/react-router-dom-v5-compat/dist/
+/packages/react-router-native/dist/
 /packages/*/LICENSE.md
 
 # compat module copies
